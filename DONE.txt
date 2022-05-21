@@ -1,6 +1,3 @@
 
-<<<<<<< HEAD
 done
 asdasd
-=======
->>>>>>> parent of 48af2e7 (ADD files IN PROGRESS.txt.)
